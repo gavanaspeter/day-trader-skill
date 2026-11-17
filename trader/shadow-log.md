@@ -9,3 +9,7 @@
 - skipped IONS 11:45: skipped, Time Machine Strongly toward the stop (7.0/37.9/55.1)
 - skipped RYTM 11:45: skipped, Time Machine no verdict (?)
 - **Day total: +7.81** on 3 trade(s). Checked 8 breakouts.
+
+### 2026-11-16 (list from 2026-11-13 close; shadow mode, no orders)
+- PCG bought 09:50 at 13.56, stop 13.45, target 13.78, 55 shares, Time Machine Close to break-even (31.6/62.9/5.5): flat 15:55, +6.33
+- **Day total: +6.33** on 1 trade(s). Checked 1 breakouts.
