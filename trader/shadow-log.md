@@ -13,3 +13,9 @@
 ### 2026-11-16 (list from 2026-11-13 close; shadow mode, no orders)
 - PCG bought 09:50 at 13.56, stop 13.45, target 13.78, 55 shares, Time Machine Close to break-even (31.6/62.9/5.5): flat 15:55, +6.33
 - **Day total: +6.33** on 1 trade(s). Checked 1 breakouts.
+
+### 2026-11-17 (list from 2026-11-16 close; shadow mode, no orders)
+- EW bought 09:50 at 107.28, stop 106.61, target 108.62, 6 shares, Time Machine Close to break-even (28.0/62.6/9.4): stop, -4.02
+- skipped ORLY 09:50: skipped, Time Machine Leans toward the stop (17.3/55.4/27.2)
+- skipped TDC 13:30: skipped, Time Machine Strongly toward the stop (3.0/19.3/77.6)
+- **Day total: -4.02** on 1 trade(s). Checked 3 breakouts.
