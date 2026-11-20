@@ -30,3 +30,16 @@
 - skipped CVNA 09:55: skipped, Time Machine Leans toward the stop (16.0/56.0/28.0)
 - skipped OMC 09:55: skipped, Time Machine Leans toward the stop (12.7/46.4/40.9)
 - **Day total: -11.57** on 2 trade(s). Checked 8 breakouts.
+
+### 2026-11-19 (list from 2026-11-18 close; shadow mode, no orders)
+- BMNR bought 09:50 at 16.37, stop 16.20, target 16.71, 45 shares, Time Machine Close to break-even (34.7/64.8/0.5): stop, -7.65
+- ARE bought 09:55 at 42.28, stop 41.99, target 42.86, 17 shares, Time Machine Close to break-even (31.1/67.6/1.3): stop, -4.93
+- TSCO bought 11:10 at 38.51, stop 38.21, target 39.11, 19 shares, Time Machine Close to break-even (28.0/46.1/26.0): flat 15:55, +5.51
+- skipped INTC 09:50: skipped, Time Machine Leans toward the stop (20.3/52.6/27.1)
+- skipped BABA 09:50: skipped, Time Machine Strongly toward the stop (0.0/2.2/97.8)
+- skipped TJX 09:50: skipped, Time Machine Strongly toward the stop (5.3/29.2/65.5)
+- skipped AKAM 09:50: skipped, Time Machine Strongly toward the stop (8.1/38.9/52.9)
+- skipped BMRN 09:55: skipped, Time Machine Strongly toward the stop (0.0/4.9/95.1)
+- skipped SKY 09:55: skipped, Time Machine no verdict (?)
+- skipped ROL 10:55: skipped, Time Machine Leans toward the stop (13.6/41.1/45.3)
+- **Day total: -7.07** on 3 trade(s). Checked 10 breakouts.
