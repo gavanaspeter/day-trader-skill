@@ -43,3 +43,13 @@
 - skipped SKY 09:55: skipped, Time Machine no verdict (?)
 - skipped ROL 10:55: skipped, Time Machine Leans toward the stop (13.6/41.1/45.3)
 - **Day total: -7.07** on 3 trade(s). Checked 10 breakouts.
+
+### 2026-11-20 (list from 2026-11-19 close; shadow mode, no orders)
+- NRG bought 09:50 at 93.19, stop 92.12, target 95.33, 8 shares, Time Machine Close to break-even (27.5/59.9/12.6): stop, -8.56
+- CVI bought 11:10 at 34.07, stop 33.68, target 34.85, 21 shares, Time Machine Close to break-even (26.7/62.4/10.9): stop, -8.19
+- skipped BABA 09:50: skipped, Time Machine Leans toward the stop (15.8/63.3/20.8)
+- skipped INSM 09:50: skipped, Time Machine Strongly toward the stop (1.7/23.3/75.1)
+- skipped TEAM 09:50: skipped, Time Machine Strongly toward the stop (0.3/13.6/86.2)
+- skipped BHP 09:50: skipped, Time Machine Strongly toward the stop (8.1/41.2/50.7)
+- skipped NTES 10:50: skipped, Time Machine Strongly toward the stop (0.2/11.4/88.4)
+- **Day total: -16.75** on 2 trade(s). Checked 7 breakouts.
